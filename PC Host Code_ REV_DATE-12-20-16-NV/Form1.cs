@@ -18,7 +18,7 @@ namespace BLEHeartRateCollector
 
 
         //Create an instance of BGLib 
-        public Bluegiga.BGLib bglib = new Bluegiga.BGLib();
+
 
         //Various identifiers to initialize
         public Boolean isAttached = false;
