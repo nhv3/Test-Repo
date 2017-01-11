@@ -1,0 +1,10 @@
+C:\Users\nhv3\Desktop\PC Side - Copy\PC Host Code_ REV_DATE-12-20-16-NV\obj\x86\Debug\BLEHeartRateCollector.exe
+C:\Users\nhv3\Desktop\PC Side - Copy\PC Host Code_ REV_DATE-12-20-16-NV\obj\x86\Debug\BLEHeartRateCollector.pdb
+C:\Users\nhv3\Desktop\PC Console Tested Codes\PC Code - Adding Second Gatt Characterisitic\PC Host Code_ REV_DATE-12-20-16-NV\obj\x86\Debug\BLEHeartRateCollector.exe
+C:\Users\nhv3\Desktop\PC Console Tested Codes\PC Code - Adding Second Gatt Characterisitic\PC Host Code_ REV_DATE-12-20-16-NV\obj\x86\Debug\BLEHeartRateCollector.pdb
+C:\Users\nhv3\Desktop\PC Console Tested Codes\PC Code - Adding Second Gatt Characterisitic\PC Host Code_ REV_DATE-12-20-16-NV\bin\Debug\BLEHeartRateCollector.exe
+C:\Users\nhv3\Desktop\PC Console Tested Codes\PC Code - Adding Second Gatt Characterisitic\PC Host Code_ REV_DATE-12-20-16-NV\bin\Debug\BLEHeartRateCollector.pdb
+C:\Users\nhv3\Desktop\PC Console Tested Codes\PC Code - Adding Second Gatt Characterisitic\PC Host Code_ REV_DATE-12-20-16-NV\obj\x86\Debug\PC_Host_BLE_Console.csprojResolveAssemblyReference.cache
+C:\Users\nhv3\Desktop\PC Console Tested Codes\PC Code - Adding Second Gatt Characterisitic\PC Host Code_ REV_DATE-12-20-16-NV\obj\x86\Debug\BLEHeartRateCollector.Form1.resources
+C:\Users\nhv3\Desktop\PC Console Tested Codes\PC Code - Adding Second Gatt Characterisitic\PC Host Code_ REV_DATE-12-20-16-NV\obj\x86\Debug\BLEHeartRateCollector.Properties.Resources.resources
+C:\Users\nhv3\Desktop\PC Console Tested Codes\PC Code - Adding Second Gatt Characterisitic\PC Host Code_ REV_DATE-12-20-16-NV\obj\x86\Debug\PC_Host_BLE_Console.csproj.GenerateResource.Cache
