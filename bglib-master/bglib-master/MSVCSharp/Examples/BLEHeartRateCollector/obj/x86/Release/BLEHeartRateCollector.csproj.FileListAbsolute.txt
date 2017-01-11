@@ -1,0 +1,8 @@
+C:\Users\nhv3\Desktop\bglib-master\bglib-master\MSVCSharp\Examples\BLEHeartRateCollector\bin\Release\BLEHeartRateCollector.exe
+C:\Users\nhv3\Desktop\bglib-master\bglib-master\MSVCSharp\Examples\BLEHeartRateCollector\bin\Release\BLEHeartRateCollector.pdb
+C:\Users\nhv3\Desktop\bglib-master\bglib-master\MSVCSharp\Examples\BLEHeartRateCollector\obj\x86\Release\BLEHeartRateCollector.csprojResolveAssemblyReference.cache
+C:\Users\nhv3\Desktop\bglib-master\bglib-master\MSVCSharp\Examples\BLEHeartRateCollector\obj\x86\Release\BLEHeartRateCollector.Form1.resources
+C:\Users\nhv3\Desktop\bglib-master\bglib-master\MSVCSharp\Examples\BLEHeartRateCollector\obj\x86\Release\BLEHeartRateCollector.Properties.Resources.resources
+C:\Users\nhv3\Desktop\bglib-master\bglib-master\MSVCSharp\Examples\BLEHeartRateCollector\obj\x86\Release\BLEHeartRateCollector.csproj.GenerateResource.Cache
+C:\Users\nhv3\Desktop\bglib-master\bglib-master\MSVCSharp\Examples\BLEHeartRateCollector\obj\x86\Release\BLEHeartRateCollector.exe
+C:\Users\nhv3\Desktop\bglib-master\bglib-master\MSVCSharp\Examples\BLEHeartRateCollector\obj\x86\Release\BLEHeartRateCollector.pdb
